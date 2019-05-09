@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="btnactivablt">ENCENDER BT</string>
+    <string name="btnapagablt">APAGAR BT</string>
+    <string name="view1"></string>
+</resources>
